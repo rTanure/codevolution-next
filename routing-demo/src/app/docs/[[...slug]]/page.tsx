@@ -16,7 +16,5 @@ export default function Docs({ params }: {
       </h1>
     )
   }
-  return (
-    <h1>Docs home page</h1>
-  )
+  return <h1>Docs home page</h1>
 }
